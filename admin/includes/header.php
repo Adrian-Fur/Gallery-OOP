@@ -1,3 +1,6 @@
+<?php ob_start(); ?> <!-- START OUTPUT BUFFERING -->
+<?php include("init.php"); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
